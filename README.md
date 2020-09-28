@@ -1,4 +1,6 @@
-# Google-Drive-API-Tutorial-in-NodeJs---service-account-settings.
-A  Google Drive API code in order to communicate with the Google Drive web service.  
+#Consumir GOOGLE DRIVE API
+ 
   
-Settings : Node.js, service account context.
+Configuracion: Node.js, con account_services de Google Developer Console.
+ 
+ npm install

@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.0",
     "googleapis": "^31.0.2"
   }
 }
